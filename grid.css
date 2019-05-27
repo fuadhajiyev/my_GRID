@@ -4,7 +4,6 @@
     padding: 0;
 }
 
-
 .col{
     margin: 10px;
     float: left;
@@ -16,10 +15,9 @@
 }
 
 .container{
-    width:1100px;
+    width:1000px;
     margin: 0 auto;
 }
-
 
 .row{
     width: 100%;
@@ -28,7 +26,6 @@
 .right{
     float: right !important;
 }
-
 
 .col-1{
     width: calc(18.33% - 20px);
@@ -42,8 +39,7 @@
     width: calc(25% - 20px);
 }
 
-.col-4{
-   
+.col-4{  
     width: calc(33.33% - 20px);   
 }
 
